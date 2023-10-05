@@ -1,5 +1,5 @@
 name: grott
-version: 3173ed5
+version: b6f2f24
 slug: grott
 description: The Growatt inverter monitor with current HA plugin integrated
 url: https://github.com/egguy/addon-grott

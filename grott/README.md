@@ -35,5 +35,5 @@ If you are more interested in stable releases of our add-ons:
 
 
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-production%20ready-brightgreen.svg
-[release-shield]: https://img.shields.io/badge/version-3173ed5-blue.svg
-[release]: https://github.com/egguy/addon-grott/tree/3173ed5
+[release-shield]: https://img.shields.io/badge/version-b6f2f24-blue.svg
+[release]: https://github.com/egguy/addon-grott/tree/b6f2f24

@@ -1,4 +1,6 @@
 # Changelog since v0.1.0
+- Corrected typo 
+- Add multiple target for deploy 
 - Updated base 
 - Updated deploy configuration 
 - Updated repository URL 
