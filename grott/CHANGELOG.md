@@ -1,4 +1,5 @@
 # Changelog since v0.1.0
+- ⬆️ Update Add-on base image to v14.2.1 
 - Corrected typo 
 - Add multiple target for deploy 
 - Updated base 

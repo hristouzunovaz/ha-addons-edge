@@ -1,7 +1,7 @@
-name: Grott (2.7.x) - Home Assistant Add-on
-version: b6f2f24
+name: grott
+version: 044729b
 slug: grott
-description: The Growatt inverter monitor with current HA plugin integrated on the stable branch
+description: The Growatt inverter monitor with current HA plugin integrated
 url: https://github.com/egguy/addon-grott
 arch:
 - armhf
