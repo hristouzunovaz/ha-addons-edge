@@ -1,4 +1,4 @@
-# egguy addons
+# EDGE - egguy addons
 
 ![Project Stage][project-stage-shield]
 ![Maintenance][maintenance-shield]
@@ -6,6 +6,26 @@
 
 [![Discord][discord-shield]][discord]
 [![Community Forum][forum-shield]][forum]
+
+## WARNING! THIS IS AN EDGE REPOSITORY
+
+This Home Assistant Add-ons repository contains edge builds of add-ons. Edge
+builds add-ons are based upon the latest development version.
+
+- They may not work at all.
+- They might stop working at any time.
+- They could have a negative impact on your system.
+
+This repository was created for:
+
+- Anybody willing to test.
+- Anybody interested in trying out upcoming add-ons or add-on features.
+- Developers.
+
+If you are more interested in stable releases of our add-ons:
+
+<https://github.com/egguy/ha-addons/>
+
 
 ## About
 
