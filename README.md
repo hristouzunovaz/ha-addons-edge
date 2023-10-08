@@ -77,10 +77,10 @@ For a general repository issue or add-on ideas [open an issue here][issue]
 
 
 
-[addon-grott]: https://github.com/egguy/addon-grott/tree/044729b
-[addon-doc-grott]: https://github.com/egguy/addon-grott/blob/044729b/README.md
+[addon-grott]: https://github.com/egguy/addon-grott/tree/16dc1b1
+[addon-doc-grott]: https://github.com/egguy/addon-grott/blob/16dc1b1/README.md
 [grott-issue]: https://github.com/egguy/addon-grott/issues
-[grott-version-shield]: https://img.shields.io/badge/version-044729b-blue.svg
+[grott-version-shield]: https://img.shields.io/badge/version-16dc1b1-blue.svg
 [grott-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [grott-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [grott-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
