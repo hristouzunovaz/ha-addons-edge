@@ -8,4 +8,4 @@ addons:
   grott-beta:
     repository: egguy/addon-grott-beta
     target: grott-beta
-    image: ghcr.io/egguy/addon-grott-beta/{arch}
+    image: ghcr.io/egguy/grott-beta/{arch}
