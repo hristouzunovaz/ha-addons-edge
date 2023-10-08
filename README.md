@@ -33,7 +33,7 @@ Addons for HA, at the moment, mostly grott
 
 ## Add-ons provided by this repository
 
-### &#10003; [grott][addon-grott]
+### &#10003; [Grott stable branch (2.7) - An addon for Home Assistant to monitor Growatt inverters with MQTT][addon-grott]
 
 ![Latest Version][grott-version-shield]
 ![Supports armhf Architecture][grott-armhf-shield]
@@ -44,7 +44,7 @@ Addons for HA, at the moment, mostly grott
 
 The Growatt inverter monitor with current HA plugin integrated
 
-[:books: grott add-on documentation][addon-doc-grott]
+[:books: Grott stable branch (2.7) - An addon for Home Assistant to monitor Growatt inverters with MQTT add-on documentation][addon-doc-grott]
 
 ## Releases
 
@@ -71,7 +71,7 @@ You could also open an issue here on GitHub. Note, we use a separate
 GitHub repository for each add-on. Please ensure you are creating the issue
 on the correct GitHub repository matching the add-on.
 
-- [Open an issue for the add-on: grott][grott-issue]
+- [Open an issue for the add-on: Grott stable branch (2.7) - An addon for Home Assistant to monitor Growatt inverters with MQTT][grott-issue]
 
 For a general repository issue or add-on ideas [open an issue here][issue]
 
