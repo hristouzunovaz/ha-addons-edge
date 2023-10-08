@@ -1,1 +1,1 @@
-- Updated CI target
+- Updated documentation of the addon

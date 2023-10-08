@@ -2,15 +2,14 @@
 
 ![Release][release-shield]][release] ![Project Stage][project-stage-shield] ![Project Maintenance][maintenance-shield]
 
-
-
 This addon allow you to run a local version of grott with the HA plugin
 and auto discovery enabled.
 
 The data is fowarded to the growatt's server.
 The grott server decode them and send them to your HA instance.
 
-This addon is based on the 2.7.8
+This addon is based on the 2.8 Branch of grott.
+
 [grott](https://github.com/johanmeijer/grott) code
 and current grott_ha extension.
 
@@ -35,5 +34,5 @@ If you are more interested in stable releases of our add-ons:
 
 
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-production%20ready-brightgreen.svg
-[release-shield]: https://img.shields.io/badge/version-0d50c8e-blue.svg
-[release]: https://github.com/egguy/addon-grott-beta/tree/0d50c8e
+[release-shield]: https://img.shields.io/badge/version-3245ba0-blue.svg
+[release]: https://github.com/egguy/addon-grott-beta/tree/3245ba0
