@@ -83,4 +83,4 @@ schema:
     user: str?
     password: str?
   data_path: str
-image: ghcr.io/egguy/addon-grott-beta/{arch}
+image: ghcr.io/egguy/grott-beta/{arch}
