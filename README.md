@@ -4,8 +4,8 @@
 ![Maintenance][maintenance-shield]
 [![License][license-shield]](LICENSE.md)
 
-[![Discord][discord-shield]][discord]
-[![Community Forum][forum-shield]][forum]
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/egguy)
+
 
 ## WARNING! THIS IS AN EDGE REPOSITORY
 
