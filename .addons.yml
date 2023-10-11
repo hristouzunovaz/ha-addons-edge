@@ -4,7 +4,7 @@ addons:
   grott:
     repository: egguy/addon-grott
     target: grott
-    image: ghcr.io/egguy/addon-grott/{arch}
+    image: ghcr.io/egguy/grott/{arch}
   grott-beta:
     repository: egguy/addon-grott-beta
     target: grott-beta
