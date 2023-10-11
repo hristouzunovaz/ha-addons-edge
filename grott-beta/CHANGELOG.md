@@ -1,1 +1,1 @@
-- Updated documentation of the addon
+- Add beta repository
