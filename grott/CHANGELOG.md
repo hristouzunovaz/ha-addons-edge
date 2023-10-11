@@ -1,4 +1,5 @@
 # Changelog since v0.1.0
+- Updated release process 
 - Change the default deployment reposotory 
 - Cleaned up the docker and give a better name 
 - ⬆️ Update Add-on base image to v14.2.1 

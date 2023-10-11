@@ -1,6 +1,6 @@
 name: Grott stable branch (2.7) - An addon for Home Assistant to monitor Growatt inverters
   with MQTT
-version: 16dc1b1
+version: eba1713
 slug: grott
 description: The Growatt inverter monitor with current HA plugin integrated
 url: https://github.com/egguy/addon-grott
@@ -84,4 +84,4 @@ schema:
     user: str?
     password: str?
   data_path: str
-image: ghcr.io/egguy/addon-grott/{arch}
+image: ghcr.io/egguy/grott/{arch}
