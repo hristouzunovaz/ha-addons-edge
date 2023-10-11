@@ -1,4 +1,5 @@
 # Changelog since v0.1.0
+- Try to deploy to old repo 
 - Updated release process 
 - Change the default deployment reposotory 
 - Cleaned up the docker and give a better name 
