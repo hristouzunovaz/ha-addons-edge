@@ -1,14 +1,2 @@
-# Changelog since v0.1.0
-- Try to deploy to old repo 
-- Updated release process 
-- Change the default deployment reposotory 
-- Cleaned up the docker and give a better name 
-- ⬆️ Update Add-on base image to v14.2.1 
-- Corrected typo 
-- Add multiple target for deploy 
-- Updated base 
-- Updated deploy configuration 
-- Updated repository URL 
-- Add edge 
-- ⬆️ Update alpine_3_18/python3 to v3.11.6-r0 
-- Add ref to stable repository 
+# Changelog since v0.1.1
+- Add beta repository 
