@@ -31,6 +31,18 @@ If you are more interested in stable releases of our add-ons:
 
 Addons for HA, at the moment, mostly grott
 
+## Installation
+
+Use the following URL to add this repository:
+
+```txt
+https://github.com/egguy/ha-addons-edge
+```
+
+[![Open your Home Assistant instance and show the add add-on repository dialog with a specific repository URL pre-filled.](https://my.home-assistant.io/badges/supervisor_add_addon_repository.svg)](https://my.home-assistant.io/redirect/supervisor_add_addon_repository/?repository_url=https%3A%2F%2Fgithub.com%2Fegguy%2Fhassio-addons-edge)
+
+
+
 ## Add-ons provided by this repository
 
 ### &#10003; [Grott Beta branch (2.8) - An addon for Home Assistant to monitor Growatt inverters][addon-grott-beta]
@@ -109,20 +121,10 @@ For a general repository issue or add-on ideas [open an issue here][issue]
 [grott-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
 [grott-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [grott-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
-[awesome-shield]: https://img.shields.io/badge/awesome%3F-yes-brightgreen.svg
-[awesome]: https://awesome-ha.com
-[discord-ha]: https://discord.gg/c5DvZ4e
-[discord-shield]: https://img.shields.io/discord/478094546522079232.svg
-[discord]: https://discord.me/hassioaddons
-[forum-frenck]: https://community.home-assistant.io/u/frenck/?u=frenck
-[forum-shield]: https://img.shields.io/badge/community-forum-brightgreen.svg
-[forum]: https://community.home-assistant.io?u=frenck
-[frenck]: https://github.com/frenck
 [gitlabci-shield]: https://gitlab.com/egguy/ha-addons-edge/badges/master/pipeline.svg
 [gitlabci]: https://gitlab.com/egguy/ha-addons-edge/pipelines
 [issue]: https://github.com/egguy/ha-addons-edge/issues
 [license-shield]: https://img.shields.io/github/license/egguy/ha-addons-edge.svg
 [maintenance-shield]: https://img.shields.io/maintenance/yes/2023.svg
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-production%20ready-brightgreen.svg
-[reddit]: https://reddit.com/r/homeassistant
 [semver]: http://semver.org/spec/v2.0.0.html
