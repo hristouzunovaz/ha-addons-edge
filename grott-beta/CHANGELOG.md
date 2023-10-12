@@ -1,3 +1,2 @@
-- Merge pull request #1 from egguy/renovate/add-on-base-image
-
-⬆️ Update Add-on base image to v14.2.2
+# Changelog since v0.1.2
+- Updated to push the notifications to the old repository 
