@@ -39,7 +39,7 @@ Use the following URL to add this repository:
 https://github.com/egguy/ha-addons-edge
 ```
 
-[![Open your Home Assistant instance and show the add add-on repository dialog with a specific repository URL pre-filled.](https://my.home-assistant.io/badges/supervisor_add_addon_repository.svg)](https://my.home-assistant.io/redirect/supervisor_add_addon_repository/?repository_url=https%3A%2F%2Fgithub.com%2Fegguy%2Fhassio-addons-edge)
+[![Open your Home Assistant instance and show the add add-on repository dialog with a specific repository URL pre-filled.](https://my.home-assistant.io/badges/supervisor_add_addon_repository.svg)](https://my.home-assistant.io/redirect/supervisor_add_addon_repository/?repository_url=https%3A%2F%2Fgithub.com%2Fegguy%2Fha-addons-edge)
 
 
 
@@ -58,7 +58,7 @@ The Growatt inverter monitor with current HA plugin integrated
 
 [:books: Grott Beta branch (2.8) - An addon for Home Assistant to monitor Growatt inverters add-on documentation][addon-doc-grott-beta]
 
-### &#10003; [Grott stable branch (2.7) - An addon for Home Assistant to monitor Growatt inverters with MQTT][addon-grott]
+### &#10003; [Grott stable branch (2.7)][addon-grott]
 
 ![Latest Version][grott-version-shield]
 ![Supports armhf Architecture][grott-armhf-shield]
@@ -69,7 +69,7 @@ The Growatt inverter monitor with current HA plugin integrated
 
 The Growatt inverter monitor with current HA plugin integrated
 
-[:books: Grott stable branch (2.7) - An addon for Home Assistant to monitor Growatt inverters with MQTT add-on documentation][addon-doc-grott]
+[:books: Grott stable branch (2.7) add-on documentation][addon-doc-grott]
 
 ## Releases
 
@@ -97,7 +97,7 @@ GitHub repository for each add-on. Please ensure you are creating the issue
 on the correct GitHub repository matching the add-on.
 
 - [Open an issue for the add-on: Grott Beta branch (2.8) - An addon for Home Assistant to monitor Growatt inverters][grott-beta-issue]
-- [Open an issue for the add-on: Grott stable branch (2.7) - An addon for Home Assistant to monitor Growatt inverters with MQTT][grott-issue]
+- [Open an issue for the add-on: Grott stable branch (2.7)][grott-issue]
 
 For a general repository issue or add-on ideas [open an issue here][issue]
 
