@@ -1,8 +1,2 @@
-## What’s changed
-## 🚀 Enhancements
-
-- Changed the name of the addon @egguy (#11)
-
-## 📚 Documentation
-
-- Update of the documentation @egguy (#10)
+# Changelog since v0.1.5
+- ⬆️ Update Add-on base image to v14.3.0 
