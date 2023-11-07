@@ -1,4 +1,5 @@
 # Changelog since v0.1.3
+- ⬆️ Update grott-ha-plugin to v0.9.1 
 - First version of the addon  using grott-ha-extension (#11)
 
 * First version of the add-on using grott-ha-extension 
