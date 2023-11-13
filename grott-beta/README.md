@@ -2,6 +2,8 @@
 
 ![Release][release-shield]][release] ![Project Stage][project-stage-shield] ![Project Maintenance][maintenance-shield]
 
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/egguy)
+
 This addon allow you to run a local version of grott with the HA plugin
 and auto discovery enabled.
 
@@ -32,7 +34,8 @@ If you are more interested in stable releases of our add-ons:
 <https://github.com/egguy/ha-addons>
 
 
-[project-stage-shield]: https://img.shields.io/badge/project%20stage-production%20ready-brightgreen.svg
-[release-shield]: https://img.shields.io/badge/version-b71e38b-blue.svg
-[release]: https://github.com/egguy/addon-grott-beta/tree/b71e38b
 [docs]: https://github.com/egguy/addon-grott-beta/blob/main/grott-beta/DOCS.md
+[maintenance-shield]: https://img.shields.io/maintenance/yes/2023.svg
+[project-stage-shield]: https://img.shields.io/badge/project%20stage-production%20ready-brightgreen.svg
+[release-shield]: https://img.shields.io/badge/version-72d950b-blue.svg
+[release]: https://github.com/egguy/addon-grott-beta/tree/72d950b
