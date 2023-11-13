@@ -1,8 +1,5 @@
-# Changelog since v0.1.6
-- Corrected the documentation link 
-- Merge pull request #19 from egguy/bugfix/correct-documentation
+## What’s changed
+## 📚 Documentation
 
-Corrected the documentation generation 
-- Backported documentation 
-- Created a README 
-- Corrected the documentation generation 
+- Corrected the documentation generation @egguy (#19)
+- Removed the last trace of the old extension
