@@ -1,5 +1,2 @@
-## What’s changed
-## 📚 Documentation
-
-- Corrected the documentation generation @egguy (#19)
-- Removed the last trace of the old extension
+# Changelog since v0.1.7
+- ⬆️ Update Add-on base image to v14.3.3 
