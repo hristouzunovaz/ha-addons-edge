@@ -1,4 +1,8 @@
 # Changelog since v0.1.5
+- Merge pull request #20 from egguy/renovate/peter-evans-repository-dispatch-3.x
+
+⬆️ Update peter-evans/repository-dispatch action to v3 
+- ⬆️ Update peter-evans/repository-dispatch action to v3 
 - Merge pull request #19 from egguy/feature/versionned-grott
 
 Add the support for creating a versionned release 
