@@ -1,4 +1,5 @@
 # Changelog since v0.1.7
+- ⬆️ Update Add-on base image to v15.0.7 
 - ⬆️ Update Add-on base image to v15.0.6 
 - Merge pull request #21 from egguy/renovate/major-add-on-base-image
 
