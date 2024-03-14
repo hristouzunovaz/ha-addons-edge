@@ -1,12 +1,26 @@
 # Changelog since v0.1.7
+- Merge pull request #35 from egguy/feature/switch-python-base-image
+
+feat: Use the python image for the addon 
+- Merge pull request #28 from egguy/feature/addon-config
+
+Addon configuration migration 
+- ⬆️ Update grott-ha-plugin to v0.11.0 
+- Merge branch 'main' into feature/switch-python-base-image 
+- Updated build from file 
+- Updated to use pip 
 - Merge pull request #30 from egguy/renovate/alpine_3_18-bind-tools-9.x
 
 ⬆️ Update alpine_3_18/bind-tools to v9.18.24-r0 
+- Use the python image for the addon 
 - Use the base image 
 - Manual patch + test 
 - Manually merge 
 - ⬆️ Update alpine_3_18/bind-tools to v9.18.24-r0 
 - ⬆️ Update Add-on base image to v15.0.7 
+- bugfix: Corrected problem with the mapping configuration 
+- doc: Update Doc 
+- feat: Add migration script to migrate to private configuration 
 - ⬆️ Update Add-on base image to v15.0.6 
 - Merge pull request #21 from egguy/renovate/major-add-on-base-image
 
