@@ -1,4 +1,8 @@
 # Changelog since v0.1.6
+- Merge pull request #28 from egguy/renovate/grott-ha-plugin-0.x
+
+⬆️ Update grott-ha-plugin to v0.11.0 
+- ⬆️ Update grott-ha-plugin to v0.11.0 
 - Merge pull request #30 from egguy/feature/python-base-image
 
 Updated build to use the new python base image 
