@@ -1,4 +1,20 @@
 # Changelog since v0.1.7
+- Merge pull request #36 from egguy/bugfix/33-update-documentation
+
+Fix: Minor documentation updates 
+- Updated build from file 
+- Updated to use pip 
+- Use the python image for the addon 
+- bugfix: Corrected problem with the mapping configuration 
+- doc: Update Doc 
+- feat: Add migration script to migrate to private configuration 
+- ⬆️ Update grott-ha-plugin to v0.11.0 
+- Use the base image 
+- Manual patch + test 
+- Manually merge 
+- ⬆️ Update alpine_3_18/bind-tools to v9.18.24-r0 
+- ⬆️ Update Add-on base image to v15.0.7 
+- Fix: Minor documentation updates 
 - Merge pull request #35 from egguy/feature/switch-python-base-image
 
 feat: Use the python image for the addon 
