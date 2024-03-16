@@ -1,4 +1,9 @@
 # Changelog since v0.1.6
+- Merge pull request #33 from egguy/bugfix/dig-add-ci
+
+Add CI with goss + fix error with dig 
+- Add missing goss file 
+- Add CI with goss + error with dig 
 - Merge pull request #28 from egguy/renovate/grott-ha-plugin-0.x
 
 ⬆️ Update grott-ha-plugin to v0.11.0 
