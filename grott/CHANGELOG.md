@@ -1,4 +1,7 @@
 # Changelog since v0.1.7
+- Corrected missing pacakge + add CI testing (#37)
+
+* Add goss CI testing + reinstated dig 
 - Merge pull request #36 from egguy/bugfix/33-update-documentation
 
 Fix: Minor documentation updates 
