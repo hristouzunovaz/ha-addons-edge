@@ -1,4 +1,5 @@
 # Changelog since v0.1.7
+- ⬆️ Update actions/cache action to v4.0.2 
 - Corrected missing pacakge + add CI testing (#37)
 
 * Add goss CI testing + reinstated dig 
