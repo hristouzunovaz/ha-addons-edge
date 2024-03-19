@@ -1,4 +1,5 @@
 # Changelog since v0.1.6
+- ⬆️ Update actions/cache action to v4.0.2 
 - Merge pull request #33 from egguy/bugfix/dig-add-ci
 
 Add CI with goss + fix error with dig 
