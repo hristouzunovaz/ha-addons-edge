@@ -1,4 +1,8 @@
 # Changelog since v0.1.6
+- Merge pull request #37 from egguy/renovate/docker-setup-buildx-action-3.x
+
+⬆️ Update docker/setup-buildx-action action to v3.3.0 
+- ⬆️ Update docker/setup-buildx-action action to v3.3.0 
 - ⬆️ Update actions/cache action to v4.0.2 
 - Merge pull request #33 from egguy/bugfix/dig-add-ci
 
