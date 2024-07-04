@@ -1,4 +1,5 @@
 # Changelog since v0.1.7
+- ⬆️ Update docker/setup-buildx-action action to v3.4.0 
 - ⬆️ Update requests to v2.32.3 
 - ⬆️ Update docker/setup-qemu-action action to v3.1.0 
 - ⬆️ Update influxdb to v5.3.2 
