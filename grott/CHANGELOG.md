@@ -1,22 +1,14 @@
-# Changelog since v0.1.9
-- Better changelog message 
-- Updated changelog for 0.1.10 
-- Merge pull request #55 from egguy/feature/update-grott-version
+## What’s changed
+## 🚀 Enhancements
 
-(chore) Update the version of grott 
-- Merge pull request #50 from egguy/feature/update-title
+- Updated adddon title @egguy (#50)
+- (chore) Update the version of grott  @egguy (#55)
 
-Updated adddon title 
-- (chore) Update the version of grott used, now support inverter fan speed (invfanspeed) 
-- Merge branch 'main' into feature/update-title 
-- (bugfix) Updated the readme 
-- Merge pull request #52 from egguy/renovate/docker-build-push-action-6.x
+## ⬆️ Dependency updates
 
-⬆️ Update docker/build-push-action action to v6 
-- ⬆️ Update docker/build-push-action action to v6 
-- ⬆️ Update docker/setup-buildx-action action to v3.4.0 
-- ⬆️ Update docker/setup-qemu-action action to v3.1.0 
-- ⬆️ Update docker/build-push-action action to v5.4.0 
-- Updated changelog 
-- Updated template reference 
-- Updated config title 
+- ⬆️ Update docker/build-push-action action to v5.4.0 @renovate (#49)
+- ⬆️ Update docker/setup-qemu-action action to v3.1.0 @renovate (#53)
+- ⬆️ Update docker/setup-buildx-action action to v3.4.0 @renovate (#54)
+- ⬆️ Update docker/build-push-action action to v6 @renovate (#52)
+- Updated adddon title @egguy (#50)
+- (chore) Update the version of grott  @egguy (#55)
