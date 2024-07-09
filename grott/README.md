@@ -10,7 +10,7 @@ and auto discovery enabled.
 The data is forwarded to the growatt's server.
 The grott server decode them and send them to your HA instance.
 
-This addon is based on the 2.7.8 [grott](https://github.com/johanmeijer/grott) code and current grott_ha extension.
+This addon is based on the 2.8.3 [grott](https://github.com/johanmeijer/grott) code and current grott_ha extension.
 
 
 ## WARNING! THIS IS AN EDGE VERSION
@@ -35,6 +35,6 @@ If you are more interested in stable releases of our add-ons:
 
 [maintenance-shield]: https://img.shields.io/maintenance/yes/2023.svg
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-production%20ready-brightgreen.svg
-[release-shield]: https://img.shields.io/badge/version-123d007-blue.svg
-[release]: https://github.com/egguy/addon-grott/tree/123d007
+[release-shield]: https://img.shields.io/badge/version-5742eb1-blue.svg
+[release]: https://github.com/egguy/addon-grott/tree/5742eb1
 [docs]: https://github.com/egguy/addon-grott/blob/main/grott/DOCS.md
