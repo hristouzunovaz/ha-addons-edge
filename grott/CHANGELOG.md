@@ -1,7 +1,13 @@
 # Changelog since v0.1.9
+- Better changelog message 
+- Updated changelog for 0.1.10 
+- Merge pull request #55 from egguy/feature/update-grott-version
+
+(chore) Update the version of grott 
 - Merge pull request #50 from egguy/feature/update-title
 
 Updated adddon title 
+- (chore) Update the version of grott used, now support inverter fan speed (invfanspeed) 
 - Merge branch 'main' into feature/update-title 
 - (bugfix) Updated the readme 
 - Merge pull request #52 from egguy/renovate/docker-build-push-action-6.x
