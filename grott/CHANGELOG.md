@@ -1,4 +1,5 @@
 # Changelog since v0.1.10
+- ⬆️ Update pytest to v8.3.1 
 - Merge pull request #62 from egguy/renovate/major-add-on-base-image
 
 ⬆️ Update Add-on base image to v14 (major) 
