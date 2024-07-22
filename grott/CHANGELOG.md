@@ -1,4 +1,5 @@
 # Changelog since v0.1.10
+- ⬆️ Update docker/build-push-action action to v6.5.0 
 - ⬆️ Update pytest to v8.3.1 
 - Merge pull request #62 from egguy/renovate/major-add-on-base-image
 
