@@ -1,4 +1,5 @@
 # Changelog since v0.1.10
+- ⬆️ Update docker/setup-qemu-action action to v3.2.0 
 - ⬆️ Update docker/setup-buildx-action action to v3.5.0 
 - ⬆️ Update docker/login-action action to v3.3.0 
 - ⬆️ Update docker/build-push-action action to v6.5.0 
