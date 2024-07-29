@@ -1,4 +1,13 @@
 # Changelog since v0.1.10
+- Merge pull request #71 from egguy/feature/grott-update-20240722
+
+chore: Updated the version of grott used to 20240722 
+- Merge pull request #70 from egguy/renovate/docker-setup-buildx-action-3.x
+
+⬆️ Update docker/setup-buildx-action action to v3.6.0 
+- ⬆️ Update docker/setup-buildx-action action to v3.6.0 
+- chore: Updated the version of grott used 
+- ⬆️ Update pytest to v8.3.2 
 - ⬆️ Update docker/setup-qemu-action action to v3.2.0 
 - ⬆️ Update docker/setup-buildx-action action to v3.5.0 
 - ⬆️ Update docker/login-action action to v3.3.0 
