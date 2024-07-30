@@ -1,4 +1,5 @@
 # Changelog since v0.1.7
+- Update renovete to use the correct regex matching 
 - Updated renovate 
 - Merge pull request #64 from egguy/feature/renovate-track-grott
 
