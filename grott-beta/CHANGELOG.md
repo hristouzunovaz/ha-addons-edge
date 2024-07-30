@@ -1,4 +1,5 @@
 # Changelog since v0.1.7
+- ⬆️ Update docker/setup-qemu-action action to v3.2.0 
 - ⬆️ Update docker/setup-buildx-action action to v3.6.1 
 - ⬆️ Update docker/build-push-action action to v6.5.0 
 - Merge pull request #50 from egguy/renovate/major-add-on-base-image
