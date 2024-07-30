@@ -1,4 +1,8 @@
 # Changelog since v0.1.7
+- Merge pull request #66 from egguy/renovate/grott-digest
+
+⬆️ Update grott digest to 36845fe 
+- ⬆️ Update grott digest to 36845fe 
 - Update renovete to use the correct regex matching 
 - Updated renovate 
 - Merge pull request #64 from egguy/feature/renovate-track-grott
