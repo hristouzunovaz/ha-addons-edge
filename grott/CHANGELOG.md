@@ -1,27 +1,21 @@
-# Changelog since v0.1.10
-- ⬆️ Update docker/setup-buildx-action action to v3.6.1 
-- Merge pull request #71 from egguy/feature/grott-update-20240722
+## What’s changed
+## 🐛 Bug fixes
 
-chore: Updated the version of grott used to 20240722 
-- Merge pull request #70 from egguy/renovate/docker-setup-buildx-action-3.x
+- Update the schedule of the lock to not trigger the rate limit @egguy (#60)
 
-⬆️ Update docker/setup-buildx-action action to v3.6.0 
-- ⬆️ Update docker/setup-buildx-action action to v3.6.0 
-- chore: Updated the version of grott used 
-- ⬆️ Update pytest to v8.3.2 
-- ⬆️ Update docker/setup-qemu-action action to v3.2.0 
-- ⬆️ Update docker/setup-buildx-action action to v3.5.0 
-- ⬆️ Update docker/login-action action to v3.3.0 
-- ⬆️ Update docker/build-push-action action to v6.5.0 
-- ⬆️ Update pytest to v8.3.1 
-- Merge pull request #62 from egguy/renovate/major-add-on-base-image
+## 🧰 Maintenance
 
-⬆️ Update Add-on base image to v14 (major) 
-- Updated bind tool version 
-- ⬆️ Update docker/build-push-action action to v6.4.1 
-- Updated alpine version 
-- ⬆️ Update Add-on base image to v14 
-- Merge pull request #60 from egguy/lock_update
+- ⬆️ : Updated the version of grott used to 20240722 @egguy (#71)
 
-Update the schedule of the lock to not trigger the rate limit 
-- Update the schedule 
+## ⬆️ Dependency updates
+
+- ⬆️ Update docker/build-push-action action to v6.4.1 @renovate (#61)
+- ⬆️ Update Add-on base image to v14 (major) @renovate (#62)
+- ⬆️ Update pytest to v8.3.1 @renovate (#63)
+- ⬆️ Update docker/build-push-action action to v6.5.0 @renovate (#64)
+- ⬆️ Update docker/login-action action to v3.3.0 @renovate (#65)
+- ⬆️ Update docker/setup-buildx-action action to v3.5.0 @renovate (#66)
+- ⬆️ Update docker/setup-qemu-action action to v3.2.0 @renovate (#67)
+- ⬆️ Update pytest to v8.3.2 @renovate (#68)
+- ⬆️ Update docker/setup-buildx-action action to v3.6.0 @renovate (#70)
+- ⬆️ Update docker/setup-buildx-action action to v3.6.1 @renovate (#72)
