@@ -1,4 +1,8 @@
 # Changelog since v0.1.7
+- Merge pull request #68 from egguy/renovate/docker-build-push-action-6.x
+
+⬆️ Update docker/build-push-action action to v6.6.0 
+- ⬆️ Update docker/build-push-action action to v6.6.0 
 - Merge pull request #63 from egguy/feature/feature-parity
 
 Feature parity with the stable version of the addon 
