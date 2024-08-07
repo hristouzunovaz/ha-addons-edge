@@ -112,10 +112,10 @@ For a general repository issue or add-on ideas [open an issue here][issue]
 [grott-beta-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
 [grott-beta-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [grott-beta-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
-[addon-grott]: https://github.com/egguy/addon-grott/tree/a5f9d28
-[addon-doc-grott]: https://github.com/egguy/addon-grott/blob/a5f9d28/README.md
+[addon-grott]: https://github.com/egguy/addon-grott/tree/225c74f
+[addon-doc-grott]: https://github.com/egguy/addon-grott/blob/225c74f/README.md
 [grott-issue]: https://github.com/egguy/addon-grott/issues
-[grott-version-shield]: https://img.shields.io/badge/version-a5f9d28-blue.svg
+[grott-version-shield]: https://img.shields.io/badge/version-225c74f-blue.svg
 [grott-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [grott-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [grott-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
