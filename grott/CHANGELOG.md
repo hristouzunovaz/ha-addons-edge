@@ -1,4 +1,5 @@
 # Changelog since v0.1.11
+- ⬆️ Update docker/build-push-action action to v6.6.1 
 - Merge pull request #76 from egguy/renovate/grott-digest
 
 ⬆️ Update grott to 09a9934 
