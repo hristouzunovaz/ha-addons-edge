@@ -1,4 +1,5 @@
 # Changelog since v0.1.7
+- ⬆️ Update Add-on base image to v14.0.1 
 - ⬆️ Update docker/build-push-action action to v6.6.1 
 - Merge pull request #67 from egguy/renovate/grott-digest
 
