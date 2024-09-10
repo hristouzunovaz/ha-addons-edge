@@ -1,4 +1,5 @@
 # Changelog since v0.1.11
+- ⬆️ Update pytest to v8.3.3 
 - Merge pull request #83 from egguy/renovate/grott-digest
 
 ⬆️ Update grott digest to 3fa7ef9 
