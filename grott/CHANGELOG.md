@@ -1,4 +1,5 @@
 # Changelog since v0.1.11
+- ⬆️ Update Add-on base image to v14.0.3 
 - ⬆️ Update Add-on base image to v14.0.2 
 - ⬆️ Update pytest to v8.3.3 
 - Merge pull request #83 from egguy/renovate/grott-digest
