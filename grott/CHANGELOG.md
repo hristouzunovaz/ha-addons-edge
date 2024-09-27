@@ -1,4 +1,5 @@
 # Changelog since v0.1.11
+- ⬆️ Update docker/build-push-action action to v6.8.0 
 - ⬆️ Update Add-on base image to v14.0.3 
 - ⬆️ Update Add-on base image to v14.0.2 
 - ⬆️ Update pytest to v8.3.3 
