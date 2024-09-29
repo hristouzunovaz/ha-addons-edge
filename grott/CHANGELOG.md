@@ -1,4 +1,8 @@
 # Changelog since v0.1.11
+- Merge pull request #90 from egguy/renovate/grott-digest
+
+⬆️ Update grott digest to b5e5817 
+- ⬆️ Update grott digest to b5e5817 
 - ⬆️ Update docker/build-push-action action to v6.8.0 
 - ⬆️ Update Add-on base image to v14.0.3 
 - ⬆️ Update Add-on base image to v14.0.2 
