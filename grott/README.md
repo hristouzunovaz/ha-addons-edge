@@ -35,6 +35,6 @@ If you are more interested in stable releases of our add-ons:
 
 [maintenance-shield]: https://img.shields.io/maintenance/yes/2023.svg
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-production%20ready-brightgreen.svg
-[release-shield]: https://img.shields.io/badge/version-b2c0bff-blue.svg
-[release]: https://github.com/egguy/addon-grott/tree/b2c0bff
+[release-shield]: https://img.shields.io/badge/version-d443641-blue.svg
+[release]: https://github.com/egguy/addon-grott/tree/d443641
 [docs]: https://github.com/egguy/addon-grott/blob/main/grott/DOCS.md

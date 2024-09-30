@@ -1,4 +1,5 @@
 # Changelog since v0.1.11
+- ⬆️ Update docker/build-push-action action to v6.9.0 
 - Merge pull request #93 from egguy/feature/include-layout
 
 Add new layout 
