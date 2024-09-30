@@ -1,4 +1,10 @@
 # Changelog since v0.1.11
+- Merge pull request #93 from egguy/feature/include-layout
+
+Add new layout 
+- Switching to tar gz to simoplify 
+- Corrected path to new layout 
+- Add new layout 
 - Merge pull request #90 from egguy/renovate/grott-digest
 
 ⬆️ Update grott digest to b5e5817 
