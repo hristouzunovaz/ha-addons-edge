@@ -1,4 +1,6 @@
 # Changelog since v0.1.11
+- ⬆️ Update docker/setup-buildx-action action to v3.7.0 
+- ⬆️ Update Add-on base image to v14.0.4 
 - ⬆️ Update docker/build-push-action action to v6.9.0 
 - Merge pull request #93 from egguy/feature/include-layout
 
