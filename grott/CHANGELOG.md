@@ -1,4 +1,5 @@
 # Changelog since v0.1.11
+- ⬆️ Update actions/cache action to v4.1.1 
 - ⬆️ Update actions/cache action to v4.1.0 
 - ⬆️ Update docker/setup-buildx-action action to v3.7.1 
 - ⬆️ Update docker/setup-buildx-action action to v3.7.0 
