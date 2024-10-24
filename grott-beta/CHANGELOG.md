@@ -1,4 +1,7 @@
 # Changelog since v0.1.7
+- ⬆️ Update grott digest to 4b526a8 
+- doc: updated README 
+- feat: Switched to the beta branch 
 - ⬆️ Update Add-on base image to v15 
 - ⬆️ Update actions/cache action to v4.1.2 
 - Merge pull request #72 from egguy/renovate/grott-digest
