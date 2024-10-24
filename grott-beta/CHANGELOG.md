@@ -1,4 +1,5 @@
 # Changelog since v0.1.7
+- ⬆️ Update Add-on base image to v15 
 - ⬆️ Update actions/cache action to v4.1.2 
 - Merge pull request #72 from egguy/renovate/grott-digest
 
