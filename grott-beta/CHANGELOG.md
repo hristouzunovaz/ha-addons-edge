@@ -1,4 +1,5 @@
 # Changelog since v0.1.7
+- ⬆️ Update grott digest to 3bfeec8 
 - ⬆️ Update Add-on base image to v15.0.1 
 - ⬆️ Update grott digest to 4b526a8 
 - doc: updated README 
