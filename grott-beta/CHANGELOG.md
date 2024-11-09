@@ -1,4 +1,7 @@
 # Changelog since v0.1.7
+- ⬆️ Update Add-on base image to v15.0.2 (#90)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update grott digest to 3bfeec8 
 - ⬆️ Update Add-on base image to v15.0.1 
 - ⬆️ Update grott digest to 4b526a8 
