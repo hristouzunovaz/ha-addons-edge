@@ -6,6 +6,6 @@ addons:
     target: grott
     image: ghcr.io/egguy/grott/{arch}
   grott-beta:
-    repository: egguy/addon-grott-beta
+    repository: hristouzunovaz/addon-grott-beta
     target: grott-beta
-    image: ghcr.io/egguy/grott-beta/{arch}
+    image: ghcr.io/hristouzunovaz/grott-beta/{arch}

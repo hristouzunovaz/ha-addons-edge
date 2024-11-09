@@ -2,7 +2,7 @@ name: Grott beta
 version: 648ffab
 slug: grott-beta
 description: The Growatt inverter monitor with current HA plugin integrated
-url: https://github.com/egguy/addon-grott-beta
+url: https://github.com/hristouzunovaz/addon-grott-beta
 arch:
 - armhf
 - armv7
@@ -83,4 +83,4 @@ schema:
     user: str?
     password: str?
   data_path: str
-image: ghcr.io/egguy/grott-beta/{arch}
+image: ghcr.io/hristouzunovaz/grott-beta/{arch}
